@@ -1,0 +1,1400 @@
+-------1--------
+n = 10
+task encryption by customer :84.188ms
+Keyword encryption by customer :58.402ms
+Interest Encryption by worker:48.252 ms
+Task Allocation :0.097 ms
+Decryption is :36.134 ms
+-------2--------
+n = 10
+task encryption by customer :72.612ms
+Keyword encryption by customer :61.205ms
+Interest Encryption by worker:45.291 ms
+Task Allocation :0.095 ms
+Decryption is :36.358 ms
+-------3--------
+n = 10
+task encryption by customer :73.739ms
+Keyword encryption by customer :60.089ms
+Interest Encryption by worker:45.469 ms
+Task Allocation :0.098 ms
+Decryption is :36.574 ms
+-------4--------
+n = 10
+task encryption by customer :73.063ms
+Keyword encryption by customer :62.742ms
+Interest Encryption by worker:45.475 ms
+Task Allocation :0.095 ms
+Decryption is :36.298 ms
+-------5--------
+n = 10
+task encryption by customer :73.053ms
+Keyword encryption by customer :65.231ms
+Interest Encryption by worker:45.675 ms
+Task Allocation :0.096 ms
+Decryption is :36.349 ms
+-------6--------
+n = 10
+task encryption by customer :73.546ms
+Keyword encryption by customer :59.205ms
+Interest Encryption by worker:45.813 ms
+Task Allocation :0.095 ms
+Decryption is :36.607 ms
+-------7--------
+n = 10
+task encryption by customer :74.567ms
+Keyword encryption by customer :58.960ms
+Interest Encryption by worker:47.436 ms
+Task Allocation :0.115 ms
+Decryption is :42.966 ms
+-------8--------
+n = 10
+task encryption by customer :78.247ms
+Keyword encryption by customer :65.951ms
+Interest Encryption by worker:47.426 ms
+Task Allocation :0.100 ms
+Decryption is :40.772 ms
+-------9--------
+n = 10
+task encryption by customer :72.887ms
+Keyword encryption by customer :65.975ms
+Interest Encryption by worker:45.360 ms
+Task Allocation :0.096 ms
+Decryption is :36.443 ms
+-------10--------
+n = 10
+task encryption by customer :73.019ms
+Keyword encryption by customer :61.335ms
+Interest Encryption by worker:45.259 ms
+Task Allocation :0.098 ms
+Decryption is :36.403 ms
+-------11--------
+n = 10
+task encryption by customer :75.536ms
+Keyword encryption by customer :61.270ms
+Interest Encryption by worker:45.367 ms
+Task Allocation :0.095 ms
+Decryption is :36.395 ms
+-------12--------
+n = 10
+task encryption by customer :73.162ms
+Keyword encryption by customer :68.195ms
+Interest Encryption by worker:45.147 ms
+Task Allocation :0.095 ms
+Decryption is :36.324 ms
+-------13--------
+n = 10
+task encryption by customer :72.831ms
+Keyword encryption by customer :58.971ms
+Interest Encryption by worker:45.134 ms
+Task Allocation :0.095 ms
+Decryption is :36.316 ms
+-------14--------
+n = 10
+task encryption by customer :73.559ms
+Keyword encryption by customer :59.362ms
+Interest Encryption by worker:45.285 ms
+Task Allocation :0.094 ms
+Decryption is :37.238 ms
+-------15--------
+n = 10
+task encryption by customer :72.810ms
+Keyword encryption by customer :66.141ms
+Interest Encryption by worker:45.152 ms
+Task Allocation :0.095 ms
+Decryption is :36.406 ms
+-------16--------
+n = 10
+task encryption by customer :73.314ms
+Keyword encryption by customer :57.816ms
+Interest Encryption by worker:45.336 ms
+Task Allocation :0.096 ms
+Decryption is :36.318 ms
+-------17--------
+n = 10
+task encryption by customer :72.929ms
+Keyword encryption by customer :65.537ms
+Interest Encryption by worker:45.084 ms
+Task Allocation :0.095 ms
+Decryption is :36.213 ms
+-------18--------
+n = 10
+task encryption by customer :73.608ms
+Keyword encryption by customer :58.695ms
+Interest Encryption by worker:45.685 ms
+Task Allocation :0.098 ms
+Decryption is :36.218 ms
+-------19--------
+n = 10
+task encryption by customer :73.762ms
+Keyword encryption by customer :58.818ms
+Interest Encryption by worker:46.170 ms
+Task Allocation :0.096 ms
+Decryption is :36.475 ms
+-------20--------
+n = 10
+task encryption by customer :74.220ms
+Keyword encryption by customer :67.587ms
+Interest Encryption by worker:45.216 ms
+Task Allocation :0.095 ms
+Decryption is :36.311 ms
+-------1--------
+n = 20
+task encryption by customer :149.904ms
+Keyword encryption by customer :119.116ms
+Interest Encryption by worker:90.718 ms
+Task Allocation :0.193 ms
+Decryption is :71.263 ms
+-------2--------
+n = 20
+task encryption by customer :146.499ms
+Keyword encryption by customer :115.352ms
+Interest Encryption by worker:90.358 ms
+Task Allocation :0.218 ms
+Decryption is :71.914 ms
+-------3--------
+n = 20
+task encryption by customer :142.955ms
+Keyword encryption by customer :115.209ms
+Interest Encryption by worker:90.498 ms
+Task Allocation :0.188 ms
+Decryption is :71.096 ms
+-------4--------
+n = 20
+task encryption by customer :151.371ms
+Keyword encryption by customer :114.772ms
+Interest Encryption by worker:90.965 ms
+Task Allocation :0.190 ms
+Decryption is :71.030 ms
+-------5--------
+n = 20
+task encryption by customer :149.158ms
+Keyword encryption by customer :114.996ms
+Interest Encryption by worker:89.923 ms
+Task Allocation :0.189 ms
+Decryption is :71.565 ms
+-------6--------
+n = 20
+task encryption by customer :148.725ms
+Keyword encryption by customer :114.014ms
+Interest Encryption by worker:89.650 ms
+Task Allocation :0.190 ms
+Decryption is :71.225 ms
+-------7--------
+n = 20
+task encryption by customer :149.277ms
+Keyword encryption by customer :114.648ms
+Interest Encryption by worker:90.200 ms
+Task Allocation :0.190 ms
+Decryption is :71.169 ms
+-------8--------
+n = 20
+task encryption by customer :147.701ms
+Keyword encryption by customer :114.386ms
+Interest Encryption by worker:90.992 ms
+Task Allocation :0.191 ms
+Decryption is :70.986 ms
+-------9--------
+n = 20
+task encryption by customer :147.451ms
+Keyword encryption by customer :115.057ms
+Interest Encryption by worker:90.243 ms
+Task Allocation :0.188 ms
+Decryption is :71.083 ms
+-------10--------
+n = 20
+task encryption by customer :147.257ms
+Keyword encryption by customer :115.765ms
+Interest Encryption by worker:90.170 ms
+Task Allocation :0.190 ms
+Decryption is :70.919 ms
+-------11--------
+n = 20
+task encryption by customer :142.420ms
+Keyword encryption by customer :114.927ms
+Interest Encryption by worker:97.329 ms
+Task Allocation :0.188 ms
+Decryption is :70.861 ms
+-------12--------
+n = 20
+task encryption by customer :146.086ms
+Keyword encryption by customer :116.501ms
+Interest Encryption by worker:90.759 ms
+Task Allocation :0.190 ms
+Decryption is :71.037 ms
+-------13--------
+n = 20
+task encryption by customer :147.654ms
+Keyword encryption by customer :115.895ms
+Interest Encryption by worker:90.951 ms
+Task Allocation :0.191 ms
+Decryption is :71.015 ms
+-------14--------
+n = 20
+task encryption by customer :145.855ms
+Keyword encryption by customer :115.065ms
+Interest Encryption by worker:90.638 ms
+Task Allocation :0.189 ms
+Decryption is :70.954 ms
+-------15--------
+n = 20
+task encryption by customer :146.665ms
+Keyword encryption by customer :115.382ms
+Interest Encryption by worker:90.600 ms
+Task Allocation :0.191 ms
+Decryption is :78.300 ms
+-------16--------
+n = 20
+task encryption by customer :143.307ms
+Keyword encryption by customer :115.039ms
+Interest Encryption by worker:90.220 ms
+Task Allocation :0.187 ms
+Decryption is :70.847 ms
+-------17--------
+n = 20
+task encryption by customer :149.225ms
+Keyword encryption by customer :115.766ms
+Interest Encryption by worker:90.597 ms
+Task Allocation :0.191 ms
+Decryption is :71.032 ms
+-------18--------
+n = 20
+task encryption by customer :143.485ms
+Keyword encryption by customer :115.272ms
+Interest Encryption by worker:90.589 ms
+Task Allocation :0.199 ms
+Decryption is :70.819 ms
+-------19--------
+n = 20
+task encryption by customer :151.266ms
+Keyword encryption by customer :115.460ms
+Interest Encryption by worker:90.297 ms
+Task Allocation :0.190 ms
+Decryption is :71.183 ms
+-------20--------
+n = 20
+task encryption by customer :143.440ms
+Keyword encryption by customer :115.424ms
+Interest Encryption by worker:90.290 ms
+Task Allocation :0.191 ms
+Decryption is :71.050 ms
+-------1--------
+n = 30
+task encryption by customer :224.545ms
+Keyword encryption by customer :173.702ms
+Interest Encryption by worker:134.996 ms
+Task Allocation :0.284 ms
+Decryption is :106.409 ms
+-------2--------
+n = 30
+task encryption by customer :217.213ms
+Keyword encryption by customer :172.745ms
+Interest Encryption by worker:135.004 ms
+Task Allocation :0.299 ms
+Decryption is :105.761 ms
+-------3--------
+n = 30
+task encryption by customer :213.868ms
+Keyword encryption by customer :180.742ms
+Interest Encryption by worker:135.315 ms
+Task Allocation :0.291 ms
+Decryption is :105.865 ms
+-------4--------
+n = 30
+task encryption by customer :211.883ms
+Keyword encryption by customer :172.456ms
+Interest Encryption by worker:135.900 ms
+Task Allocation :0.285 ms
+Decryption is :107.310 ms
+-------5--------
+n = 30
+task encryption by customer :213.382ms
+Keyword encryption by customer :173.757ms
+Interest Encryption by worker:136.382 ms
+Task Allocation :0.287 ms
+Decryption is :105.741 ms
+-------6--------
+n = 30
+task encryption by customer :212.178ms
+Keyword encryption by customer :172.878ms
+Interest Encryption by worker:135.755 ms
+Task Allocation :0.284 ms
+Decryption is :105.784 ms
+-------7--------
+n = 30
+task encryption by customer :212.786ms
+Keyword encryption by customer :172.315ms
+Interest Encryption by worker:135.464 ms
+Task Allocation :0.280 ms
+Decryption is :105.880 ms
+-------8--------
+n = 30
+task encryption by customer :217.986ms
+Keyword encryption by customer :172.941ms
+Interest Encryption by worker:135.880 ms
+Task Allocation :0.286 ms
+Decryption is :105.482 ms
+-------9--------
+n = 30
+task encryption by customer :214.165ms
+Keyword encryption by customer :172.758ms
+Interest Encryption by worker:135.578 ms
+Task Allocation :0.284 ms
+Decryption is :108.835 ms
+-------10--------
+n = 30
+task encryption by customer :215.871ms
+Keyword encryption by customer :172.949ms
+Interest Encryption by worker:136.257 ms
+Task Allocation :0.284 ms
+Decryption is :106.143 ms
+-------11--------
+n = 30
+task encryption by customer :213.201ms
+Keyword encryption by customer :179.304ms
+Interest Encryption by worker:135.698 ms
+Task Allocation :0.284 ms
+Decryption is :105.889 ms
+-------12--------
+n = 30
+task encryption by customer :211.471ms
+Keyword encryption by customer :173.676ms
+Interest Encryption by worker:134.893 ms
+Task Allocation :0.286 ms
+Decryption is :105.832 ms
+-------13--------
+n = 30
+task encryption by customer :211.003ms
+Keyword encryption by customer :172.493ms
+Interest Encryption by worker:134.934 ms
+Task Allocation :0.286 ms
+Decryption is :106.893 ms
+-------14--------
+n = 30
+task encryption by customer :213.125ms
+Keyword encryption by customer :174.289ms
+Interest Encryption by worker:136.010 ms
+Task Allocation :0.283 ms
+Decryption is :105.728 ms
+-------15--------
+n = 30
+task encryption by customer :212.238ms
+Keyword encryption by customer :171.696ms
+Interest Encryption by worker:135.465 ms
+Task Allocation :0.284 ms
+Decryption is :105.574 ms
+-------16--------
+n = 30
+task encryption by customer :213.107ms
+Keyword encryption by customer :173.104ms
+Interest Encryption by worker:136.032 ms
+Task Allocation :0.283 ms
+Decryption is :106.002 ms
+-------17--------
+n = 30
+task encryption by customer :215.308ms
+Keyword encryption by customer :177.266ms
+Interest Encryption by worker:137.881 ms
+Task Allocation :0.290 ms
+Decryption is :106.165 ms
+-------18--------
+n = 30
+task encryption by customer :212.815ms
+Keyword encryption by customer :173.305ms
+Interest Encryption by worker:136.157 ms
+Task Allocation :0.283 ms
+Decryption is :105.818 ms
+-------19--------
+n = 30
+task encryption by customer :218.025ms
+Keyword encryption by customer :172.309ms
+Interest Encryption by worker:135.974 ms
+Task Allocation :0.327 ms
+Decryption is :105.957 ms
+-------20--------
+n = 30
+task encryption by customer :212.773ms
+Keyword encryption by customer :173.806ms
+Interest Encryption by worker:136.094 ms
+Task Allocation :0.284 ms
+Decryption is :105.701 ms
+-------1--------
+n = 40
+task encryption by customer :306.338ms
+Keyword encryption by customer :228.000ms
+Interest Encryption by worker:180.697 ms
+Task Allocation :0.386 ms
+Decryption is :141.381 ms
+-------2--------
+n = 40
+task encryption by customer :321.871ms
+Keyword encryption by customer :233.107ms
+Interest Encryption by worker:180.720 ms
+Task Allocation :0.394 ms
+Decryption is :140.622 ms
+-------3--------
+n = 40
+task encryption by customer :287.297ms
+Keyword encryption by customer :230.040ms
+Interest Encryption by worker:180.541 ms
+Task Allocation :0.394 ms
+Decryption is :147.826 ms
+-------4--------
+n = 40
+task encryption by customer :281.596ms
+Keyword encryption by customer :229.696ms
+Interest Encryption by worker:180.843 ms
+Task Allocation :0.381 ms
+Decryption is :140.755 ms
+-------5--------
+n = 40
+task encryption by customer :290.116ms
+Keyword encryption by customer :231.114ms
+Interest Encryption by worker:180.929 ms
+Task Allocation :0.385 ms
+Decryption is :140.376 ms
+-------6--------
+n = 40
+task encryption by customer :285.444ms
+Keyword encryption by customer :232.606ms
+Interest Encryption by worker:179.754 ms
+Task Allocation :0.389 ms
+Decryption is :140.059 ms
+-------7--------
+n = 40
+task encryption by customer :278.843ms
+Keyword encryption by customer :238.013ms
+Interest Encryption by worker:180.262 ms
+Task Allocation :0.385 ms
+Decryption is :149.379 ms
+-------8--------
+n = 40
+task encryption by customer :288.235ms
+Keyword encryption by customer :230.557ms
+Interest Encryption by worker:181.563 ms
+Task Allocation :0.391 ms
+Decryption is :140.432 ms
+-------9--------
+n = 40
+task encryption by customer :287.787ms
+Keyword encryption by customer :229.337ms
+Interest Encryption by worker:181.024 ms
+Task Allocation :0.380 ms
+Decryption is :147.841 ms
+-------10--------
+n = 40
+task encryption by customer :290.563ms
+Keyword encryption by customer :229.411ms
+Interest Encryption by worker:181.283 ms
+Task Allocation :0.385 ms
+Decryption is :141.716 ms
+-------11--------
+n = 40
+task encryption by customer :279.046ms
+Keyword encryption by customer :230.791ms
+Interest Encryption by worker:180.883 ms
+Task Allocation :0.380 ms
+Decryption is :140.302 ms
+-------12--------
+n = 40
+task encryption by customer :286.834ms
+Keyword encryption by customer :241.488ms
+Interest Encryption by worker:221.735 ms
+Task Allocation :0.419 ms
+Decryption is :145.906 ms
+-------13--------
+n = 40
+task encryption by customer :345.416ms
+Keyword encryption by customer :303.022ms
+Interest Encryption by worker:184.801 ms
+Task Allocation :0.419 ms
+Decryption is :145.552 ms
+-------14--------
+n = 40
+task encryption by customer :309.965ms
+Keyword encryption by customer :236.746ms
+Interest Encryption by worker:208.663 ms
+Task Allocation :0.433 ms
+Decryption is :146.033 ms
+-------15--------
+n = 40
+task encryption by customer :291.154ms
+Keyword encryption by customer :232.433ms
+Interest Encryption by worker:181.827 ms
+Task Allocation :0.383 ms
+Decryption is :145.055 ms
+-------16--------
+n = 40
+task encryption by customer :278.168ms
+Keyword encryption by customer :229.353ms
+Interest Encryption by worker:180.650 ms
+Task Allocation :0.380 ms
+Decryption is :141.367 ms
+-------17--------
+n = 40
+task encryption by customer :284.208ms
+Keyword encryption by customer :229.162ms
+Interest Encryption by worker:180.159 ms
+Task Allocation :0.375 ms
+Decryption is :141.452 ms
+-------18--------
+n = 40
+task encryption by customer :285.349ms
+Keyword encryption by customer :238.191ms
+Interest Encryption by worker:180.377 ms
+Task Allocation :0.381 ms
+Decryption is :140.289 ms
+-------19--------
+n = 40
+task encryption by customer :286.458ms
+Keyword encryption by customer :233.726ms
+Interest Encryption by worker:181.011 ms
+Task Allocation :0.377 ms
+Decryption is :140.330 ms
+-------20--------
+n = 40
+task encryption by customer :285.715ms
+Keyword encryption by customer :228.926ms
+Interest Encryption by worker:180.394 ms
+Task Allocation :0.379 ms
+Decryption is :140.204 ms
+-------1--------
+n = 50
+task encryption by customer :361.398ms
+Keyword encryption by customer :288.079ms
+Interest Encryption by worker:225.885 ms
+Task Allocation :0.488 ms
+Decryption is :176.197 ms
+-------2--------
+n = 50
+task encryption by customer :352.582ms
+Keyword encryption by customer :286.110ms
+Interest Encryption by worker:226.821 ms
+Task Allocation :0.480 ms
+Decryption is :175.920 ms
+-------3--------
+n = 50
+task encryption by customer :348.547ms
+Keyword encryption by customer :284.815ms
+Interest Encryption by worker:224.773 ms
+Task Allocation :0.484 ms
+Decryption is :174.707 ms
+-------4--------
+n = 50
+task encryption by customer :358.210ms
+Keyword encryption by customer :287.315ms
+Interest Encryption by worker:225.628 ms
+Task Allocation :0.474 ms
+Decryption is :175.705 ms
+-------5--------
+n = 50
+task encryption by customer :349.627ms
+Keyword encryption by customer :289.030ms
+Interest Encryption by worker:225.477 ms
+Task Allocation :0.482 ms
+Decryption is :175.202 ms
+-------6--------
+n = 50
+task encryption by customer :354.253ms
+Keyword encryption by customer :288.269ms
+Interest Encryption by worker:225.335 ms
+Task Allocation :0.469 ms
+Decryption is :175.227 ms
+-------7--------
+n = 50
+task encryption by customer :361.941ms
+Keyword encryption by customer :292.441ms
+Interest Encryption by worker:234.630 ms
+Task Allocation :0.479 ms
+Decryption is :181.642 ms
+-------8--------
+n = 50
+task encryption by customer :355.374ms
+Keyword encryption by customer :288.482ms
+Interest Encryption by worker:225.036 ms
+Task Allocation :0.477 ms
+Decryption is :175.328 ms
+-------9--------
+n = 50
+task encryption by customer :356.566ms
+Keyword encryption by customer :285.623ms
+Interest Encryption by worker:233.045 ms
+Task Allocation :0.485 ms
+Decryption is :176.373 ms
+-------10--------
+n = 50
+task encryption by customer :349.427ms
+Keyword encryption by customer :292.014ms
+Interest Encryption by worker:226.064 ms
+Task Allocation :0.485 ms
+Decryption is :178.941 ms
+-------11--------
+n = 50
+task encryption by customer :355.078ms
+Keyword encryption by customer :297.101ms
+Interest Encryption by worker:226.029 ms
+Task Allocation :0.477 ms
+Decryption is :175.459 ms
+-------12--------
+n = 50
+task encryption by customer :353.453ms
+Keyword encryption by customer :288.195ms
+Interest Encryption by worker:224.141 ms
+Task Allocation :0.475 ms
+Decryption is :175.111 ms
+-------13--------
+n = 50
+task encryption by customer :358.953ms
+Keyword encryption by customer :289.125ms
+Interest Encryption by worker:241.445 ms
+Task Allocation :0.478 ms
+Decryption is :175.062 ms
+-------14--------
+n = 50
+task encryption by customer :350.699ms
+Keyword encryption by customer :288.833ms
+Interest Encryption by worker:225.461 ms
+Task Allocation :0.471 ms
+Decryption is :174.768 ms
+-------15--------
+n = 50
+task encryption by customer :349.648ms
+Keyword encryption by customer :287.153ms
+Interest Encryption by worker:225.812 ms
+Task Allocation :0.475 ms
+Decryption is :175.013 ms
+-------16--------
+n = 50
+task encryption by customer :352.769ms
+Keyword encryption by customer :285.670ms
+Interest Encryption by worker:225.596 ms
+Task Allocation :0.470 ms
+Decryption is :176.129 ms
+-------17--------
+n = 50
+task encryption by customer :352.019ms
+Keyword encryption by customer :289.277ms
+Interest Encryption by worker:227.148 ms
+Task Allocation :0.477 ms
+Decryption is :177.990 ms
+-------18--------
+n = 50
+task encryption by customer :350.620ms
+Keyword encryption by customer :288.738ms
+Interest Encryption by worker:226.582 ms
+Task Allocation :0.472 ms
+Decryption is :174.851 ms
+-------19--------
+n = 50
+task encryption by customer :349.492ms
+Keyword encryption by customer :285.519ms
+Interest Encryption by worker:226.453 ms
+Task Allocation :0.484 ms
+Decryption is :175.614 ms
+-------20--------
+n = 50
+task encryption by customer :356.917ms
+Keyword encryption by customer :287.171ms
+Interest Encryption by worker:225.598 ms
+Task Allocation :0.475 ms
+Decryption is :175.394 ms
+-------1--------
+n = 60
+task encryption by customer :421.171ms
+Keyword encryption by customer :344.605ms
+Interest Encryption by worker:271.775 ms
+Task Allocation :0.579 ms
+Decryption is :209.579 ms
+-------2--------
+n = 60
+task encryption by customer :425.996ms
+Keyword encryption by customer :348.528ms
+Interest Encryption by worker:271.746 ms
+Task Allocation :0.580 ms
+Decryption is :210.584 ms
+-------3--------
+n = 60
+task encryption by customer :419.683ms
+Keyword encryption by customer :345.673ms
+Interest Encryption by worker:277.705 ms
+Task Allocation :0.598 ms
+Decryption is :210.717 ms
+-------4--------
+n = 60
+task encryption by customer :427.384ms
+Keyword encryption by customer :354.932ms
+Interest Encryption by worker:271.048 ms
+Task Allocation :0.579 ms
+Decryption is :209.726 ms
+-------5--------
+n = 60
+task encryption by customer :422.185ms
+Keyword encryption by customer :344.879ms
+Interest Encryption by worker:271.545 ms
+Task Allocation :0.607 ms
+Decryption is :209.645 ms
+-------6--------
+n = 60
+task encryption by customer :430.135ms
+Keyword encryption by customer :344.006ms
+Interest Encryption by worker:270.782 ms
+Task Allocation :0.566 ms
+Decryption is :209.930 ms
+-------7--------
+n = 60
+task encryption by customer :426.581ms
+Keyword encryption by customer :346.194ms
+Interest Encryption by worker:270.733 ms
+Task Allocation :0.577 ms
+Decryption is :210.457 ms
+-------8--------
+n = 60
+task encryption by customer :418.326ms
+Keyword encryption by customer :341.026ms
+Interest Encryption by worker:272.671 ms
+Task Allocation :0.577 ms
+Decryption is :209.678 ms
+-------9--------
+n = 60
+task encryption by customer :420.957ms
+Keyword encryption by customer :344.501ms
+Interest Encryption by worker:270.400 ms
+Task Allocation :0.564 ms
+Decryption is :210.154 ms
+-------10--------
+n = 60
+task encryption by customer :421.620ms
+Keyword encryption by customer :345.198ms
+Interest Encryption by worker:269.846 ms
+Task Allocation :0.573 ms
+Decryption is :209.826 ms
+-------11--------
+n = 60
+task encryption by customer :421.216ms
+Keyword encryption by customer :344.042ms
+Interest Encryption by worker:273.278 ms
+Task Allocation :0.578 ms
+Decryption is :209.742 ms
+-------12--------
+n = 60
+task encryption by customer :419.632ms
+Keyword encryption by customer :343.518ms
+Interest Encryption by worker:270.358 ms
+Task Allocation :0.569 ms
+Decryption is :210.398 ms
+-------13--------
+n = 60
+task encryption by customer :420.827ms
+Keyword encryption by customer :346.779ms
+Interest Encryption by worker:270.042 ms
+Task Allocation :0.580 ms
+Decryption is :210.173 ms
+-------14--------
+n = 60
+task encryption by customer :432.211ms
+Keyword encryption by customer :344.903ms
+Interest Encryption by worker:279.264 ms
+Task Allocation :0.594 ms
+Decryption is :209.956 ms
+-------15--------
+n = 60
+task encryption by customer :432.688ms
+Keyword encryption by customer :362.991ms
+Interest Encryption by worker:269.884 ms
+Task Allocation :0.576 ms
+Decryption is :210.574 ms
+-------16--------
+n = 60
+task encryption by customer :418.800ms
+Keyword encryption by customer :344.698ms
+Interest Encryption by worker:271.471 ms
+Task Allocation :0.583 ms
+Decryption is :210.152 ms
+-------17--------
+n = 60
+task encryption by customer :424.913ms
+Keyword encryption by customer :346.789ms
+Interest Encryption by worker:278.561 ms
+Task Allocation :0.571 ms
+Decryption is :231.835 ms
+-------18--------
+n = 60
+task encryption by customer :422.703ms
+Keyword encryption by customer :346.803ms
+Interest Encryption by worker:272.759 ms
+Task Allocation :0.580 ms
+Decryption is :213.241 ms
+-------19--------
+n = 60
+task encryption by customer :425.253ms
+Keyword encryption by customer :356.533ms
+Interest Encryption by worker:271.725 ms
+Task Allocation :0.569 ms
+Decryption is :210.655 ms
+-------20--------
+n = 60
+task encryption by customer :424.235ms
+Keyword encryption by customer :341.384ms
+Interest Encryption by worker:270.418 ms
+Task Allocation :0.579 ms
+Decryption is :210.969 ms
+-------1--------
+n = 70
+task encryption by customer :491.544ms
+Keyword encryption by customer :411.445ms
+Interest Encryption by worker:322.301 ms
+Task Allocation :0.706 ms
+Decryption is :252.272 ms
+-------2--------
+n = 70
+task encryption by customer :496.174ms
+Keyword encryption by customer :401.961ms
+Interest Encryption by worker:315.434 ms
+Task Allocation :0.676 ms
+Decryption is :244.810 ms
+-------3--------
+n = 70
+task encryption by customer :496.334ms
+Keyword encryption by customer :400.140ms
+Interest Encryption by worker:314.957 ms
+Task Allocation :0.678 ms
+Decryption is :244.245 ms
+-------4--------
+n = 70
+task encryption by customer :489.179ms
+Keyword encryption by customer :400.742ms
+Interest Encryption by worker:329.703 ms
+Task Allocation :0.668 ms
+Decryption is :243.956 ms
+-------5--------
+n = 70
+task encryption by customer :492.080ms
+Keyword encryption by customer :413.412ms
+Interest Encryption by worker:316.954 ms
+Task Allocation :0.682 ms
+Decryption is :245.639 ms
+-------6--------
+n = 70
+task encryption by customer :489.189ms
+Keyword encryption by customer :403.414ms
+Interest Encryption by worker:314.857 ms
+Task Allocation :0.665 ms
+Decryption is :245.435 ms
+-------7--------
+n = 70
+task encryption by customer :483.077ms
+Keyword encryption by customer :400.960ms
+Interest Encryption by worker:314.697 ms
+Task Allocation :0.662 ms
+Decryption is :243.636 ms
+-------8--------
+n = 70
+task encryption by customer :495.139ms
+Keyword encryption by customer :404.271ms
+Interest Encryption by worker:318.189 ms
+Task Allocation :0.710 ms
+Decryption is :243.996 ms
+-------9--------
+n = 70
+task encryption by customer :490.436ms
+Keyword encryption by customer :401.302ms
+Interest Encryption by worker:316.545 ms
+Task Allocation :0.681 ms
+Decryption is :243.898 ms
+-------10--------
+n = 70
+task encryption by customer :490.030ms
+Keyword encryption by customer :403.717ms
+Interest Encryption by worker:317.487 ms
+Task Allocation :0.684 ms
+Decryption is :244.989 ms
+-------11--------
+n = 70
+task encryption by customer :498.301ms
+Keyword encryption by customer :400.970ms
+Interest Encryption by worker:316.045 ms
+Task Allocation :0.770 ms
+Decryption is :245.603 ms
+-------12--------
+n = 70
+task encryption by customer :486.681ms
+Keyword encryption by customer :402.530ms
+Interest Encryption by worker:315.104 ms
+Task Allocation :0.666 ms
+Decryption is :245.296 ms
+-------13--------
+n = 70
+task encryption by customer :495.991ms
+Keyword encryption by customer :398.715ms
+Interest Encryption by worker:316.228 ms
+Task Allocation :0.674 ms
+Decryption is :244.431 ms
+-------14--------
+n = 70
+task encryption by customer :491.612ms
+Keyword encryption by customer :403.540ms
+Interest Encryption by worker:316.792 ms
+Task Allocation :0.661 ms
+Decryption is :251.656 ms
+-------15--------
+n = 70
+task encryption by customer :491.561ms
+Keyword encryption by customer :402.561ms
+Interest Encryption by worker:316.376 ms
+Task Allocation :0.667 ms
+Decryption is :245.057 ms
+-------16--------
+n = 70
+task encryption by customer :488.175ms
+Keyword encryption by customer :404.414ms
+Interest Encryption by worker:316.507 ms
+Task Allocation :0.712 ms
+Decryption is :248.848 ms
+-------17--------
+n = 70
+task encryption by customer :495.911ms
+Keyword encryption by customer :403.840ms
+Interest Encryption by worker:316.267 ms
+Task Allocation :0.665 ms
+Decryption is :244.224 ms
+-------18--------
+n = 70
+task encryption by customer :491.000ms
+Keyword encryption by customer :404.308ms
+Interest Encryption by worker:316.036 ms
+Task Allocation :0.670 ms
+Decryption is :244.686 ms
+-------19--------
+n = 70
+task encryption by customer :494.963ms
+Keyword encryption by customer :404.690ms
+Interest Encryption by worker:316.250 ms
+Task Allocation :0.660 ms
+Decryption is :249.725 ms
+-------20--------
+n = 70
+task encryption by customer :489.809ms
+Keyword encryption by customer :404.810ms
+Interest Encryption by worker:324.778 ms
+Task Allocation :0.667 ms
+Decryption is :248.610 ms
+-------1--------
+n = 80
+task encryption by customer :559.831ms
+Keyword encryption by customer :461.583ms
+Interest Encryption by worker:360.686 ms
+Task Allocation :0.784 ms
+Decryption is :278.921 ms
+-------2--------
+n = 80
+task encryption by customer :568.413ms
+Keyword encryption by customer :463.196ms
+Interest Encryption by worker:361.844 ms
+Task Allocation :0.795 ms
+Decryption is :286.100 ms
+-------3--------
+n = 80
+task encryption by customer :572.451ms
+Keyword encryption by customer :462.245ms
+Interest Encryption by worker:362.534 ms
+Task Allocation :0.766 ms
+Decryption is :279.780 ms
+-------4--------
+n = 80
+task encryption by customer :557.033ms
+Keyword encryption by customer :461.044ms
+Interest Encryption by worker:363.378 ms
+Task Allocation :0.792 ms
+Decryption is :280.146 ms
+-------5--------
+n = 80
+task encryption by customer :559.443ms
+Keyword encryption by customer :460.175ms
+Interest Encryption by worker:359.432 ms
+Task Allocation :0.759 ms
+Decryption is :278.575 ms
+-------6--------
+n = 80
+task encryption by customer :565.067ms
+Keyword encryption by customer :457.952ms
+Interest Encryption by worker:360.157 ms
+Task Allocation :0.766 ms
+Decryption is :278.293 ms
+-------7--------
+n = 80
+task encryption by customer :559.378ms
+Keyword encryption by customer :460.852ms
+Interest Encryption by worker:362.268 ms
+Task Allocation :0.768 ms
+Decryption is :278.306 ms
+-------8--------
+n = 80
+task encryption by customer :562.412ms
+Keyword encryption by customer :459.909ms
+Interest Encryption by worker:361.553 ms
+Task Allocation :0.763 ms
+Decryption is :283.195 ms
+-------9--------
+n = 80
+task encryption by customer :567.047ms
+Keyword encryption by customer :461.674ms
+Interest Encryption by worker:360.909 ms
+Task Allocation :0.752 ms
+Decryption is :279.636 ms
+-------10--------
+n = 80
+task encryption by customer :561.298ms
+Keyword encryption by customer :464.776ms
+Interest Encryption by worker:363.534 ms
+Task Allocation :0.794 ms
+Decryption is :280.332 ms
+-------11--------
+n = 80
+task encryption by customer :557.337ms
+Keyword encryption by customer :460.041ms
+Interest Encryption by worker:368.874 ms
+Task Allocation :0.774 ms
+Decryption is :282.868 ms
+-------12--------
+n = 80
+task encryption by customer :561.801ms
+Keyword encryption by customer :468.269ms
+Interest Encryption by worker:360.438 ms
+Task Allocation :0.755 ms
+Decryption is :278.372 ms
+-------13--------
+n = 80
+task encryption by customer :563.457ms
+Keyword encryption by customer :459.664ms
+Interest Encryption by worker:360.951 ms
+Task Allocation :0.766 ms
+Decryption is :279.654 ms
+-------14--------
+n = 80
+task encryption by customer :559.707ms
+Keyword encryption by customer :459.342ms
+Interest Encryption by worker:359.979 ms
+Task Allocation :0.772 ms
+Decryption is :279.099 ms
+-------15--------
+n = 80
+task encryption by customer :564.959ms
+Keyword encryption by customer :459.662ms
+Interest Encryption by worker:360.470 ms
+Task Allocation :0.755 ms
+Decryption is :279.726 ms
+-------16--------
+n = 80
+task encryption by customer :563.401ms
+Keyword encryption by customer :458.585ms
+Interest Encryption by worker:361.741 ms
+Task Allocation :0.775 ms
+Decryption is :280.339 ms
+-------17--------
+n = 80
+task encryption by customer :555.328ms
+Keyword encryption by customer :460.137ms
+Interest Encryption by worker:370.630 ms
+Task Allocation :0.786 ms
+Decryption is :287.817 ms
+-------18--------
+n = 80
+task encryption by customer :560.859ms
+Keyword encryption by customer :468.921ms
+Interest Encryption by worker:363.211 ms
+Task Allocation :0.764 ms
+Decryption is :279.662 ms
+-------19--------
+n = 80
+task encryption by customer :560.762ms
+Keyword encryption by customer :458.282ms
+Interest Encryption by worker:361.343 ms
+Task Allocation :0.764 ms
+Decryption is :279.343 ms
+-------20--------
+n = 80
+task encryption by customer :556.078ms
+Keyword encryption by customer :456.028ms
+Interest Encryption by worker:359.769 ms
+Task Allocation :0.765 ms
+Decryption is :286.263 ms
+-------1--------
+n = 90
+task encryption by customer :633.456ms
+Keyword encryption by customer :524.609ms
+Interest Encryption by worker:408.265 ms
+Task Allocation :0.872 ms
+Decryption is :314.389 ms
+-------2--------
+n = 90
+task encryption by customer :632.050ms
+Keyword encryption by customer :520.529ms
+Interest Encryption by worker:409.010 ms
+Task Allocation :0.875 ms
+Decryption is :316.521 ms
+-------3--------
+n = 90
+task encryption by customer :628.055ms
+Keyword encryption by customer :515.299ms
+Interest Encryption by worker:407.943 ms
+Task Allocation :0.864 ms
+Decryption is :313.956 ms
+-------4--------
+n = 90
+task encryption by customer :641.887ms
+Keyword encryption by customer :514.761ms
+Interest Encryption by worker:410.732 ms
+Task Allocation :0.877 ms
+Decryption is :313.613 ms
+-------5--------
+n = 90
+task encryption by customer :627.626ms
+Keyword encryption by customer :516.628ms
+Interest Encryption by worker:406.137 ms
+Task Allocation :0.862 ms
+Decryption is :313.995 ms
+-------6--------
+n = 90
+task encryption by customer :644.424ms
+Keyword encryption by customer :517.876ms
+Interest Encryption by worker:405.744 ms
+Task Allocation :0.861 ms
+Decryption is :315.483 ms
+-------7--------
+n = 90
+task encryption by customer :632.737ms
+Keyword encryption by customer :518.759ms
+Interest Encryption by worker:406.199 ms
+Task Allocation :0.860 ms
+Decryption is :314.978 ms
+-------8--------
+n = 90
+task encryption by customer :633.250ms
+Keyword encryption by customer :518.237ms
+Interest Encryption by worker:408.124 ms
+Task Allocation :0.884 ms
+Decryption is :314.042 ms
+-------9--------
+n = 90
+task encryption by customer :624.188ms
+Keyword encryption by customer :518.042ms
+Interest Encryption by worker:412.921 ms
+Task Allocation :0.854 ms
+Decryption is :314.524 ms
+-------10--------
+n = 90
+task encryption by customer :646.835ms
+Keyword encryption by customer :515.805ms
+Interest Encryption by worker:406.590 ms
+Task Allocation :0.874 ms
+Decryption is :314.487 ms
+-------11--------
+n = 90
+task encryption by customer :635.192ms
+Keyword encryption by customer :520.283ms
+Interest Encryption by worker:407.105 ms
+Task Allocation :0.865 ms
+Decryption is :313.203 ms
+-------12--------
+n = 90
+task encryption by customer :626.290ms
+Keyword encryption by customer :524.670ms
+Interest Encryption by worker:404.632 ms
+Task Allocation :0.893 ms
+Decryption is :314.668 ms
+-------13--------
+n = 90
+task encryption by customer :626.706ms
+Keyword encryption by customer :517.093ms
+Interest Encryption by worker:404.487 ms
+Task Allocation :0.869 ms
+Decryption is :314.053 ms
+-------14--------
+n = 90
+task encryption by customer :638.720ms
+Keyword encryption by customer :518.757ms
+Interest Encryption by worker:405.195 ms
+Task Allocation :0.857 ms
+Decryption is :315.424 ms
+-------15--------
+n = 90
+task encryption by customer :628.479ms
+Keyword encryption by customer :518.917ms
+Interest Encryption by worker:405.704 ms
+Task Allocation :0.901 ms
+Decryption is :314.344 ms
+-------16--------
+n = 90
+task encryption by customer :648.629ms
+Keyword encryption by customer :526.756ms
+Interest Encryption by worker:406.778 ms
+Task Allocation :0.864 ms
+Decryption is :315.977 ms
+-------17--------
+n = 90
+task encryption by customer :631.450ms
+Keyword encryption by customer :519.425ms
+Interest Encryption by worker:420.067 ms
+Task Allocation :0.910 ms
+Decryption is :344.631 ms
+-------18--------
+n = 90
+task encryption by customer :631.026ms
+Keyword encryption by customer :519.883ms
+Interest Encryption by worker:406.330 ms
+Task Allocation :0.881 ms
+Decryption is :314.724 ms
+-------19--------
+n = 90
+task encryption by customer :624.117ms
+Keyword encryption by customer :515.880ms
+Interest Encryption by worker:405.376 ms
+Task Allocation :0.878 ms
+Decryption is :314.438 ms
+-------20--------
+n = 90
+task encryption by customer :639.071ms
+Keyword encryption by customer :517.096ms
+Interest Encryption by worker:409.678 ms
+Task Allocation :1.168 ms
+Decryption is :316.052 ms
+-------1--------
+n = 100
+task encryption by customer :704.130ms
+Keyword encryption by customer :575.623ms
+Interest Encryption by worker:449.076 ms
+Task Allocation :0.999 ms
+Decryption is :348.452 ms
+-------2--------
+n = 100
+task encryption by customer :704.441ms
+Keyword encryption by customer :576.087ms
+Interest Encryption by worker:471.367 ms
+Task Allocation :0.986 ms
+Decryption is :347.529 ms
+-------3--------
+n = 100
+task encryption by customer :697.867ms
+Keyword encryption by customer :576.614ms
+Interest Encryption by worker:453.129 ms
+Task Allocation :0.966 ms
+Decryption is :350.872 ms
+-------4--------
+n = 100
+task encryption by customer :699.829ms
+Keyword encryption by customer :575.125ms
+Interest Encryption by worker:451.235 ms
+Task Allocation :0.966 ms
+Decryption is :347.421 ms
+-------5--------
+n = 100
+task encryption by customer :733.595ms
+Keyword encryption by customer :578.172ms
+Interest Encryption by worker:451.513 ms
+Task Allocation :0.994 ms
+Decryption is :349.151 ms
+-------6--------
+n = 100
+task encryption by customer :704.785ms
+Keyword encryption by customer :572.903ms
+Interest Encryption by worker:457.272 ms
+Task Allocation :0.979 ms
+Decryption is :349.309 ms
+-------7--------
+n = 100
+task encryption by customer :716.977ms
+Keyword encryption by customer :645.309ms
+Interest Encryption by worker:473.221 ms
+Task Allocation :0.986 ms
+Decryption is :359.162 ms
+-------8--------
+n = 100
+task encryption by customer :693.809ms
+Keyword encryption by customer :603.593ms
+Interest Encryption by worker:465.509 ms
+Task Allocation :0.992 ms
+Decryption is :357.754 ms
+-------9--------
+n = 100
+task encryption by customer :708.524ms
+Keyword encryption by customer :584.941ms
+Interest Encryption by worker:457.671 ms
+Task Allocation :0.989 ms
+Decryption is :365.376 ms
+-------10--------
+n = 100
+task encryption by customer :726.763ms
+Keyword encryption by customer :600.915ms
+Interest Encryption by worker:455.430 ms
+Task Allocation :1.037 ms
+Decryption is :348.346 ms
+-------11--------
+n = 100
+task encryption by customer :689.910ms
+Keyword encryption by customer :603.993ms
+Interest Encryption by worker:460.655 ms
+Task Allocation :0.999 ms
+Decryption is :351.374 ms
+-------12--------
+n = 100
+task encryption by customer :703.154ms
+Keyword encryption by customer :591.922ms
+Interest Encryption by worker:478.784 ms
+Task Allocation :0.989 ms
+Decryption is :351.132 ms
+-------13--------
+n = 100
+task encryption by customer :696.224ms
+Keyword encryption by customer :576.655ms
+Interest Encryption by worker:567.835 ms
+Task Allocation :1.021 ms
+Decryption is :381.740 ms
+-------14--------
+n = 100
+task encryption by customer :713.081ms
+Keyword encryption by customer :583.913ms
+Interest Encryption by worker:458.445 ms
+Task Allocation :1.005 ms
+Decryption is :353.884 ms
+-------15--------
+n = 100
+task encryption by customer :702.565ms
+Keyword encryption by customer :582.479ms
+Interest Encryption by worker:455.157 ms
+Task Allocation :0.986 ms
+Decryption is :372.755 ms
+-------16--------
+n = 100
+task encryption by customer :725.378ms
+Keyword encryption by customer :582.985ms
+Interest Encryption by worker:462.227 ms
+Task Allocation :0.992 ms
+Decryption is :363.170 ms
+-------17--------
+n = 100
+task encryption by customer :787.929ms
+Keyword encryption by customer :603.373ms
+Interest Encryption by worker:472.351 ms
+Task Allocation :1.075 ms
+Decryption is :376.435 ms
+-------18--------
+n = 100
+task encryption by customer :698.677ms
+Keyword encryption by customer :573.442ms
+Interest Encryption by worker:452.240 ms
+Task Allocation :0.975 ms
+Decryption is :349.132 ms
+-------19--------
+n = 100
+task encryption by customer :712.918ms
+Keyword encryption by customer :573.193ms
+Interest Encryption by worker:449.476 ms
+Task Allocation :0.967 ms
+Decryption is :349.082 ms
+-------20--------
+n = 100
+task encryption by customer :704.989ms
+Keyword encryption by customer :576.974ms
+Interest Encryption by worker:450.483 ms
+Task Allocation :0.951 ms
+Decryption is :352.016 ms
