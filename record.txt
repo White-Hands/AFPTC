@@ -1,0 +1,801 @@
+2019年12月11日11:02:20
+n = 100
+Key Generation: 22.231 ms
+task encryption :17.052ms
+keyword encryption :5.414ms
+Interest Encrytion : 2.408 ms
+Task Alloction : 2.178 ms
+Decryption is 11.426 ms
+total is 73.577 ms
+n = 100
+Key Generation: 21.838 ms
+task encryption :17.255ms
+keyword encryption :5.456ms
+Interest Encrytion : 2.437 ms
+Task Alloction : 2.186 ms
+Decryption is 11.182 ms
+total is 75.403 ms
+n = 100
+Key Generation: 21.151 ms
+task encryption :17.502ms
+keyword encryption :5.513ms
+Interest Encrytion : 2.532 ms
+Task Alloction : 2.272 ms
+Decryption is 11.354 ms
+total is 73.565 ms
+n = 100
+Key Generation: 21.740 ms
+task encryption :17.146ms
+keyword encryption :5.626ms
+Interest Encrytion : 2.303 ms
+Task Alloction : 2.341 ms
+Decryption is 11.722 ms
+total is 75.010 ms
+n = 100
+Key Generation: 22.333 ms
+task encryption :17.292ms
+keyword encryption :5.409ms
+Interest Encrytion : 2.326 ms
+Task Alloction : 2.284 ms
+Decryption is 11.330 ms
+total is 74.318 ms
+n = 100
+Key Generation: 21.040 ms
+task encryption :18.107ms
+keyword encryption :5.691ms
+Interest Encrytion : 2.307 ms
+Task Alloction : 2.187 ms
+Decryption is 11.522 ms
+total is 75.756 ms
+n = 100
+Key Generation: 20.566 ms
+task encryption :17.419ms
+keyword encryption :5.535ms
+Interest Encrytion : 2.403 ms
+Task Alloction : 2.235 ms
+Decryption is 11.008 ms
+total is 72.456 ms
+n = 100
+Key Generation: 21.033 ms
+task encryption :17.433ms
+keyword encryption :5.566ms
+Interest Encrytion : 2.280 ms
+Task Alloction : 2.365 ms
+Decryption is 11.602 ms
+total is 73.479 ms
+n = 100
+Key Generation: 21.886 ms
+task encryption :17.569ms
+keyword encryption :5.679ms
+Interest Encrytion : 2.161 ms
+Task Alloction : 2.326 ms
+Decryption is 12.002 ms
+total is 75.509 ms
+n = 100
+Key Generation: 21.976 ms
+task encryption :17.421ms
+keyword encryption :5.561ms
+Interest Encrytion : 2.405 ms
+Task Alloction : 2.286 ms
+Decryption is 11.424 ms
+total is 76.365 ms
+n = 90
+Key Generation: 19.876 ms
+task encryption :14.414ms
+keyword encryption :4.936ms
+Interest Encrytion : 2.255 ms
+Task Alloction : 2.063 ms
+Decryption is 10.027 ms
+total is 67.437 ms
+n = 90
+Key Generation: 19.088 ms
+task encryption :15.130ms
+keyword encryption :5.433ms
+Interest Encrytion : 2.260 ms
+Task Alloction : 2.089 ms
+Decryption is 10.842 ms
+total is 68.810 ms
+n = 90
+Key Generation: 19.109 ms
+task encryption :14.152ms
+keyword encryption :5.082ms
+Interest Encrytion : 2.046 ms
+Task Alloction : 2.139 ms
+Decryption is 10.517 ms
+total is 68.100 ms
+n = 90
+Key Generation: 20.037 ms
+task encryption :14.606ms
+keyword encryption :4.891ms
+Interest Encrytion : 2.199 ms
+Task Alloction : 2.133 ms
+Decryption is 10.510 ms
+total is 68.468 ms
+n = 90
+Key Generation: 19.921 ms
+task encryption :14.205ms
+keyword encryption :4.904ms
+Interest Encrytion : 2.210 ms
+Task Alloction : 2.119 ms
+Decryption is 10.675 ms
+total is 67.495 ms
+n = 90
+Key Generation: 19.789 ms
+task encryption :14.351ms
+keyword encryption :4.918ms
+Interest Encrytion : 2.254 ms
+Task Alloction : 2.085 ms
+Decryption is 10.270 ms
+total is 68.212 ms
+n = 90
+Key Generation: 18.867 ms
+task encryption :14.470ms
+keyword encryption :4.863ms
+Interest Encrytion : 2.023 ms
+Task Alloction : 2.145 ms
+Decryption is 10.601 ms
+total is 67.336 ms
+n = 90
+Key Generation: 20.308 ms
+task encryption :14.341ms
+keyword encryption :4.777ms
+Interest Encrytion : 2.317 ms
+Task Alloction : 2.101 ms
+Decryption is 9.823 ms
+total is 68.203 ms
+n = 90
+Key Generation: 20.477 ms
+task encryption :14.139ms
+keyword encryption :4.847ms
+Interest Encrytion : 2.110 ms
+Task Alloction : 2.182 ms
+Decryption is 10.326 ms
+total is 66.551 ms
+n = 90
+Key Generation: 18.199 ms
+task encryption :14.798ms
+keyword encryption :4.950ms
+Interest Encrytion : 2.693 ms
+Task Alloction : 3.277 ms
+Decryption is 11.247 ms
+total is 68.075 ms
+n = 80
+Key Generation: 17.248 ms
+task encryption :12.284ms
+keyword encryption :4.597ms
+Interest Encrytion : 1.992 ms
+Task Alloction : 1.885 ms
+Decryption is 9.349 ms
+total is 60.246 ms
+n = 80
+Key Generation: 17.897 ms
+task encryption :12.147ms
+keyword encryption :4.476ms
+Interest Encrytion : 2.003 ms
+Task Alloction : 1.873 ms
+Decryption is 9.080 ms
+total is 59.579 ms
+n = 80
+Key Generation: 17.946 ms
+task encryption :11.410ms
+keyword encryption :4.699ms
+Interest Encrytion : 1.903 ms
+Task Alloction : 1.908 ms
+Decryption is 9.187 ms
+total is 60.154 ms
+n = 80
+Key Generation: 18.778 ms
+task encryption :11.280ms
+keyword encryption :4.576ms
+Interest Encrytion : 1.867 ms
+Task Alloction : 1.876 ms
+Decryption is 9.506 ms
+total is 60.497 ms
+n = 80
+Key Generation: 17.463 ms
+task encryption :11.605ms
+keyword encryption :4.675ms
+Interest Encrytion : 1.895 ms
+Task Alloction : 1.960 ms
+Decryption is 9.229 ms
+total is 60.930 ms
+n = 80
+Key Generation: 18.223 ms
+task encryption :11.390ms
+keyword encryption :4.429ms
+Interest Encrytion : 2.022 ms
+Task Alloction : 1.791 ms
+Decryption is 9.338 ms
+total is 61.016 ms
+n = 80
+Key Generation: 17.993 ms
+task encryption :12.185ms
+keyword encryption :4.504ms
+Interest Encrytion : 2.014 ms
+Task Alloction : 1.837 ms
+Decryption is 8.786 ms
+total is 60.911 ms
+n = 80
+Key Generation: 18.309 ms
+task encryption :11.419ms
+keyword encryption :4.526ms
+Interest Encrytion : 1.927 ms
+Task Alloction : 1.785 ms
+Decryption is 8.665 ms
+total is 59.920 ms
+n = 80
+Key Generation: 18.079 ms
+task encryption :11.384ms
+keyword encryption :4.562ms
+Interest Encrytion : 2.112 ms
+Task Alloction : 1.891 ms
+Decryption is 9.294 ms
+total is 60.426 ms
+n = 80
+Key Generation: 17.035 ms
+task encryption :11.607ms
+keyword encryption :4.489ms
+Interest Encrytion : 1.920 ms
+Task Alloction : 2.022 ms
+Decryption is 9.170 ms
+total is 59.903 ms
+n = 70
+Key Generation: 16.337 ms
+task encryption :8.975ms
+keyword encryption :4.007ms
+Interest Encrytion : 1.735 ms
+Task Alloction : 1.738 ms
+Decryption is 8.061 ms
+total is 54.371 ms
+n = 70
+Key Generation: 16.402 ms
+task encryption :9.199ms
+keyword encryption :3.995ms
+Interest Encrytion : 1.842 ms
+Task Alloction : 1.556 ms
+Decryption is 8.020 ms
+total is 54.557 ms
+n = 70
+Key Generation: 17.018 ms
+task encryption :9.148ms
+keyword encryption :3.831ms
+Interest Encrytion : 1.748 ms
+Task Alloction : 1.667 ms
+Decryption is 7.960 ms
+total is 52.372 ms
+n = 70
+Key Generation: 16.185 ms
+task encryption :10.152ms
+keyword encryption :3.807ms
+Interest Encrytion : 1.588 ms
+Task Alloction : 1.790 ms
+Decryption is 8.094 ms
+total is 54.713 ms
+n = 70
+Key Generation: 16.070 ms
+task encryption :9.721ms
+keyword encryption :3.858ms
+Interest Encrytion : 1.681 ms
+Task Alloction : 1.694 ms
+Decryption is 8.241 ms
+total is 50.726 ms
+n = 70
+Key Generation: 15.876 ms
+task encryption :8.855ms
+keyword encryption :3.966ms
+Interest Encrytion : 1.705 ms
+Task Alloction : 1.712 ms
+Decryption is 8.109 ms
+total is 53.370 ms
+n = 70
+Key Generation: 15.811 ms
+task encryption :9.095ms
+keyword encryption :3.841ms
+Interest Encrytion : 1.736 ms
+Task Alloction : 1.737 ms
+Decryption is 8.204 ms
+total is 55.246 ms
+n = 70
+Key Generation: 16.441 ms
+task encryption :8.961ms
+keyword encryption :4.060ms
+Interest Encrytion : 1.716 ms
+Task Alloction : 1.576 ms
+Decryption is 7.982 ms
+total is 53.790 ms
+n = 70
+Key Generation: 15.292 ms
+task encryption :9.075ms
+keyword encryption :3.987ms
+Interest Encrytion : 1.683 ms
+Task Alloction : 1.641 ms
+Decryption is 8.115 ms
+total is 52.718 ms
+n = 70
+Key Generation: 14.811 ms
+task encryption :9.068ms
+keyword encryption :3.859ms
+Interest Encrytion : 1.579 ms
+Task Alloction : 1.670 ms
+Decryption is 8.098 ms
+total is 51.083 ms
+n = 60
+Key Generation: 13.008 ms
+task encryption :6.841ms
+keyword encryption :3.343ms
+Interest Encrytion : 1.371 ms
+Task Alloction : 1.508 ms
+Decryption is 7.620 ms
+total is 46.805 ms
+n = 60
+Key Generation: 14.341 ms
+task encryption :6.981ms
+keyword encryption :3.348ms
+Interest Encrytion : 1.464 ms
+Task Alloction : 1.471 ms
+Decryption is 6.824 ms
+total is 47.347 ms
+n = 60
+Key Generation: 14.555 ms
+task encryption :6.919ms
+keyword encryption :4.054ms
+Interest Encrytion : 1.562 ms
+Task Alloction : 1.453 ms
+Decryption is 6.906 ms
+total is 47.406 ms
+n = 60
+Key Generation: 12.709 ms
+task encryption :7.028ms
+keyword encryption :3.351ms
+Interest Encrytion : 1.511 ms
+Task Alloction : 1.566 ms
+Decryption is 7.489 ms
+total is 46.064 ms
+n = 60
+Key Generation: 14.296 ms
+task encryption :7.048ms
+keyword encryption :3.520ms
+Interest Encrytion : 1.484 ms
+Task Alloction : 1.471 ms
+Decryption is 7.112 ms
+total is 47.582 ms
+n = 60
+Key Generation: 14.679 ms
+task encryption :6.806ms
+keyword encryption :3.558ms
+Interest Encrytion : 1.472 ms
+Task Alloction : 1.454 ms
+Decryption is 6.898 ms
+total is 47.221 ms
+n = 60
+Key Generation: 14.537 ms
+task encryption :7.669ms
+keyword encryption :3.376ms
+Interest Encrytion : 1.443 ms
+Task Alloction : 1.489 ms
+Decryption is 6.974 ms
+total is 47.086 ms
+n = 60
+Key Generation: 14.173 ms
+task encryption :6.973ms
+keyword encryption :3.314ms
+Interest Encrytion : 1.546 ms
+Task Alloction : 1.561 ms
+Decryption is 7.095 ms
+total is 47.278 ms
+n = 60
+Key Generation: 12.830 ms
+task encryption :6.983ms
+keyword encryption :3.313ms
+Interest Encrytion : 1.463 ms
+Task Alloction : 1.408 ms
+Decryption is 6.801 ms
+total is 46.284 ms
+n = 60
+Key Generation: 14.472 ms
+task encryption :6.884ms
+keyword encryption :3.358ms
+Interest Encrytion : 1.642 ms
+Task Alloction : 1.405 ms
+Decryption is 6.554 ms
+total is 47.458 ms
+n = 50
+Key Generation: 12.219 ms
+task encryption :5.072ms
+keyword encryption :2.831ms
+Interest Encrytion : 1.343 ms
+Task Alloction : 1.190 ms
+Decryption is 6.238 ms
+total is 40.680 ms
+n = 50
+Key Generation: 12.168 ms
+task encryption :5.174ms
+keyword encryption :3.410ms
+Interest Encrytion : 1.351 ms
+Task Alloction : 1.187 ms
+Decryption is 5.875 ms
+total is 40.313 ms
+n = 50
+Key Generation: 15.549 ms
+task encryption :6.490ms
+keyword encryption :2.767ms
+Interest Encrytion : 1.314 ms
+Task Alloction : 1.284 ms
+Decryption is 7.251 ms
+total is 44.102 ms
+n = 50
+Key Generation: 12.047 ms
+task encryption :5.213ms
+keyword encryption :2.801ms
+Interest Encrytion : 1.240 ms
+Task Alloction : 1.258 ms
+Decryption is 5.957 ms
+total is 39.975 ms
+n = 50
+Key Generation: 11.627 ms
+task encryption :5.917ms
+keyword encryption :2.890ms
+Interest Encrytion : 1.319 ms
+Task Alloction : 1.174 ms
+Decryption is 5.831 ms
+total is 40.729 ms
+n = 50
+Key Generation: 12.233 ms
+task encryption :5.208ms
+keyword encryption :2.942ms
+Interest Encrytion : 1.313 ms
+Task Alloction : 1.231 ms
+Decryption is 5.976 ms
+total is 41.898 ms
+n = 50
+Key Generation: 12.175 ms
+task encryption :5.157ms
+keyword encryption :2.814ms
+Interest Encrytion : 1.442 ms
+Task Alloction : 1.241 ms
+Decryption is 5.774 ms
+total is 42.269 ms
+n = 50
+Key Generation: 10.618 ms
+task encryption :5.714ms
+keyword encryption :3.058ms
+Interest Encrytion : 1.245 ms
+Task Alloction : 1.277 ms
+Decryption is 6.030 ms
+total is 40.043 ms
+n = 50
+Key Generation: 11.573 ms
+task encryption :5.508ms
+keyword encryption :2.859ms
+Interest Encrytion : 1.243 ms
+Task Alloction : 1.259 ms
+Decryption is 5.916 ms
+total is 40.361 ms
+n = 50
+Key Generation: 12.228 ms
+task encryption :5.227ms
+keyword encryption :2.810ms
+Interest Encrytion : 1.366 ms
+Task Alloction : 1.244 ms
+Decryption is 5.817 ms
+total is 42.048 ms
+n = 40
+Key Generation: 9.231 ms
+task encryption :3.486ms
+keyword encryption :3.033ms
+Interest Encrytion : 1.175 ms
+Task Alloction : 1.017 ms
+Decryption is 4.554 ms
+total is 33.389 ms
+n = 40
+Key Generation: 9.269 ms
+task encryption :3.491ms
+keyword encryption :2.375ms
+Interest Encrytion : 1.058 ms
+Task Alloction : 1.025 ms
+Decryption is 5.133 ms
+total is 34.313 ms
+n = 40
+Key Generation: 9.853 ms
+task encryption :4.079ms
+keyword encryption :2.245ms
+Interest Encrytion : 1.098 ms
+Task Alloction : 1.033 ms
+Decryption is 4.715 ms
+total is 36.003 ms
+n = 40
+Key Generation: 8.492 ms
+task encryption :4.013ms
+keyword encryption :2.314ms
+Interest Encrytion : 1.144 ms
+Task Alloction : 1.028 ms
+Decryption is 4.566 ms
+total is 33.831 ms
+n = 40
+Key Generation: 9.190 ms
+task encryption :3.524ms
+keyword encryption :2.353ms
+Interest Encrytion : 1.051 ms
+Task Alloction : 0.983 ms
+Decryption is 4.759 ms
+total is 33.781 ms
+n = 40
+Key Generation: 9.791 ms
+task encryption :3.938ms
+keyword encryption :2.570ms
+Interest Encrytion : 1.058 ms
+Task Alloction : 1.019 ms
+Decryption is 4.760 ms
+total is 35.318 ms
+n = 40
+Key Generation: 8.649 ms
+task encryption :4.105ms
+keyword encryption :2.395ms
+Interest Encrytion : 1.042 ms
+Task Alloction : 1.014 ms
+Decryption is 4.565 ms
+total is 34.767 ms
+n = 40
+Key Generation: 9.907 ms
+task encryption :4.010ms
+keyword encryption :2.459ms
+Interest Encrytion : 1.111 ms
+Task Alloction : 1.027 ms
+Decryption is 4.578 ms
+total is 34.899 ms
+n = 40
+Key Generation: 8.671 ms
+task encryption :4.184ms
+keyword encryption :2.348ms
+Interest Encrytion : 1.105 ms
+Task Alloction : 0.981 ms
+Decryption is 4.480 ms
+total is 34.142 ms
+n = 40
+Key Generation: 8.479 ms
+task encryption :3.844ms
+keyword encryption :2.719ms
+Interest Encrytion : 1.107 ms
+Task Alloction : 0.992 ms
+Decryption is 4.771 ms
+total is 34.044 ms
+n = 30
+Key Generation: 7.475 ms
+task encryption :2.510ms
+keyword encryption :1.715ms
+Interest Encrytion : 1.041 ms
+Task Alloction : 1.064 ms
+Decryption is 3.563 ms
+total is 28.855 ms
+n = 30
+Key Generation: 7.925 ms
+task encryption :2.549ms
+keyword encryption :1.714ms
+Interest Encrytion : 0.838 ms
+Task Alloction : 1.264 ms
+Decryption is 3.644 ms
+total is 29.277 ms
+n = 30
+Key Generation: 6.594 ms
+task encryption :2.270ms
+keyword encryption :1.779ms
+Interest Encrytion : 0.951 ms
+Task Alloction : 1.175 ms
+Decryption is 3.662 ms
+total is 27.616 ms
+n = 30
+Key Generation: 8.496 ms
+task encryption :2.260ms
+keyword encryption :1.731ms
+Interest Encrytion : 1.272 ms
+Task Alloction : 0.799 ms
+Decryption is 3.413 ms
+total is 29.361 ms
+n = 30
+Key Generation: 6.648 ms
+task encryption :2.317ms
+keyword encryption :1.733ms
+Interest Encrytion : 0.801 ms
+Task Alloction : 1.260 ms
+Decryption is 3.457 ms
+total is 28.531 ms
+n = 30
+Key Generation: 8.052 ms
+task encryption :2.264ms
+keyword encryption :1.796ms
+Interest Encrytion : 1.196 ms
+Task Alloction : 0.835 ms
+Decryption is 3.547 ms
+total is 28.680 ms
+n = 30
+Key Generation: 7.679 ms
+task encryption :2.451ms
+keyword encryption :1.715ms
+Interest Encrytion : 0.851 ms
+Task Alloction : 1.226 ms
+Decryption is 3.594 ms
+total is 27.875 ms
+n = 30
+Key Generation: 8.101 ms
+task encryption :2.406ms
+keyword encryption :1.719ms
+Interest Encrytion : 0.916 ms
+Task Alloction : 1.191 ms
+Decryption is 3.529 ms
+total is 28.330 ms
+n = 30
+Key Generation: 7.948 ms
+task encryption :2.384ms
+keyword encryption :2.509ms
+Interest Encrytion : 0.867 ms
+Task Alloction : 0.841 ms
+Decryption is 3.633 ms
+total is 28.370 ms
+n = 30
+Key Generation: 6.610 ms
+task encryption :2.359ms
+keyword encryption :1.774ms
+Interest Encrytion : 1.299 ms
+Task Alloction : 0.842 ms
+Decryption is 3.578 ms
+total is 29.087 ms
+n = 20
+Key Generation: 6.547 ms
+task encryption :1.653ms
+keyword encryption :1.417ms
+Interest Encrytion : 0.635 ms
+Task Alloction : 0.588 ms
+Decryption is 2.362 ms
+total is 24.002 ms
+n = 20
+Key Generation: 6.024 ms
+task encryption :1.758ms
+keyword encryption :1.392ms
+Interest Encrytion : 0.770 ms
+Task Alloction : 0.607 ms
+Decryption is 2.294 ms
+total is 24.093 ms
+n = 20
+Key Generation: 6.674 ms
+task encryption :1.714ms
+keyword encryption :1.222ms
+Interest Encrytion : 0.645 ms
+Task Alloction : 0.589 ms
+Decryption is 2.279 ms
+total is 23.661 ms
+n = 20
+Key Generation: 4.605 ms
+task encryption :1.366ms
+keyword encryption :1.245ms
+Interest Encrytion : 0.664 ms
+Task Alloction : 0.647 ms
+Decryption is 2.379 ms
+total is 22.670 ms
+n = 20
+Key Generation: 7.159 ms
+task encryption :1.423ms
+keyword encryption :1.213ms
+Interest Encrytion : 0.611 ms
+Task Alloction : 0.594 ms
+Decryption is 2.495 ms
+total is 22.639 ms
+n = 20
+Key Generation: 6.775 ms
+task encryption :1.563ms
+keyword encryption :1.203ms
+Interest Encrytion : 0.634 ms
+Task Alloction : 0.592 ms
+Decryption is 2.339 ms
+total is 22.625 ms
+n = 20
+Key Generation: 4.676 ms
+task encryption :1.353ms
+keyword encryption :1.244ms
+Interest Encrytion : 0.655 ms
+Task Alloction : 0.613 ms
+Decryption is 2.471 ms
+total is 23.281 ms
+n = 20
+Key Generation: 7.417 ms
+task encryption :1.471ms
+keyword encryption :1.204ms
+Interest Encrytion : 0.614 ms
+Task Alloction : 0.602 ms
+Decryption is 2.428 ms
+total is 23.275 ms
+n = 20
+Key Generation: 4.599 ms
+task encryption :1.375ms
+keyword encryption :1.210ms
+Interest Encrytion : 0.662 ms
+Task Alloction : 0.604 ms
+Decryption is 2.513 ms
+total is 21.804 ms
+n = 20
+Key Generation: 5.481 ms
+task encryption :1.560ms
+keyword encryption :1.384ms
+Interest Encrytion : 0.704 ms
+Task Alloction : 0.696 ms
+Decryption is 3.007 ms
+total is 23.581 ms
+n = 10
+Key Generation: 3.503 ms
+task encryption :0.872ms
+keyword encryption :0.796ms
+Interest Encrytion : 0.477 ms
+Task Alloction : 0.469 ms
+Decryption is 1.325 ms
+total is 18.888 ms
+n = 10
+Key Generation: 4.004 ms
+task encryption :0.748ms
+keyword encryption :1.086ms
+Interest Encrytion : 0.564 ms
+Task Alloction : 0.424 ms
+Decryption is 1.130 ms
+total is 17.977 ms
+n = 10
+Key Generation: 3.421 ms
+task encryption :0.820ms
+keyword encryption :0.785ms
+Interest Encrytion : 0.516 ms
+Task Alloction : 0.448 ms
+Decryption is 1.365 ms
+total is 16.500 ms
+n = 10
+Key Generation: 3.519 ms
+task encryption :0.727ms
+keyword encryption :0.676ms
+Interest Encrytion : 0.407 ms
+Task Alloction : 0.368 ms
+Decryption is 1.177 ms
+total is 17.036 ms
+n = 10
+Key Generation: 3.534 ms
+task encryption :0.752ms
+keyword encryption :0.712ms
+Interest Encrytion : 0.408 ms
+Task Alloction : 0.383 ms
+Decryption is 1.171 ms
+total is 17.339 ms
+n = 10
+Key Generation: 3.492 ms
+task encryption :0.763ms
+keyword encryption :0.678ms
+Interest Encrytion : 0.410 ms
+Task Alloction : 0.385 ms
+Decryption is 1.170 ms
+total is 18.413 ms
+n = 10
+Key Generation: 4.984 ms
+task encryption :0.710ms
+keyword encryption :0.677ms
+Interest Encrytion : 0.399 ms
+Task Alloction : 0.373 ms
+Decryption is 1.162 ms
+total is 16.983 ms
+n = 10
+Key Generation: 3.805 ms
+task encryption :0.852ms
+keyword encryption :0.832ms
+Interest Encrytion : 0.504 ms
+Task Alloction : 0.461 ms
+Decryption is 1.445 ms
+total is 17.867 ms
+n = 10
+Key Generation: 3.072 ms
+task encryption :0.810ms
+keyword encryption :0.785ms
+Interest Encrytion : 0.457 ms
+Task Alloction : 0.445 ms
+Decryption is 1.380 ms
+total is 18.542 ms
+n = 10
+Key Generation: 3.852 ms
+task encryption :0.891ms
+keyword encryption :0.876ms
+Interest Encrytion : 0.554 ms
+Task Alloction : 0.437 ms
+Decryption is 1.395 ms
+total is 18.010 ms
